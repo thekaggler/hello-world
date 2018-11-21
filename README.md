@@ -1,5 +1,2 @@
 # hello-world
-This is my new branch under the master with name "new-branch"
-'''
-sample.py
-'''
+Working as a consultant in Data Science, Machine Learning and Data Visualization.
