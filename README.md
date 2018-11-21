@@ -1,2 +1,2 @@
 # hello-world
-my first repo
+Working as a consultant in Data Science, Machine Learning and Data Visualization.
